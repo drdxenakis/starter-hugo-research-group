@@ -15,6 +15,7 @@ authors:
   - admin
   - Robert Ford
   - dimitrisxenakis
+  - δημήτρης-ξενάκης
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -25,7 +26,7 @@ url_source: "#"
 url_video: "#"
 publication: In *Source Themes Conference*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: An example conference paper
 tags:
@@ -39,7 +40,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
